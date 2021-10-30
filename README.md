@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am King David, a full-stack web developer still in school. I am a tech enthusiast & an open-source advocate.
 
 [![Instagram](https://img.shields.io/badge/daking3968-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daking3968)
-[![Twitter URL](https://img.shields.io/twitter/url?label=%40daking24&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F%40daking24)](https://Twitter.com/@daking24)
+[![Twitter](https://img.shields.io/badge/daking24-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://Twitter.com/@daking24)
 
 ## :keyboard: IDE and Set-up
 
