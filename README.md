@@ -1,49 +1,30 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**daking24/daking24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! I'm King David Ajayi, a Backend Software Engineer with a passion for technology and open-source projects. I strive to create efficient and reliable solutions, constantly exploring new technologies to expand my skill set.
 
-Here are some ideas to get you started:
+🔭 Currently, I'm working on several exciting projects that leverage the power of the TALL (Tailwind CSS, Alpine.js, Laravel, and Livewire) and MERN (MongoDB, Express.js, React, and Node.js) stacks. These frameworks enable me to build robust and dynamic web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm continuously learning and staying up-to-date with the latest advancements in the software development industry. I believe in the importance of lifelong learning and embrace opportunities to enhance my knowledge and skills.
 
-## Welcome Artisans 💻 
+💻 My preferred operating systems are Linux and macOS, which provide a powerful and developer-friendly environment for coding and debugging.
 
-I am King David, a full-stack web developer still in school. I am a tech enthusiast & an open-source advocate.
+💼 In terms of code editing, I rely on Visual Studio Code. Its versatility, extensive plugin ecosystem, and intuitive interface make it my go-to choice for software development.
 
-[![Instagram](https://img.shields.io/badge/daking3968-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daking3968)
-[![Twitter](https://img.shields.io/badge/daking24-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://Twitter.com/@daking24)
+⚡ Here are some of the technologies I'm proficient in:
 
-## :keyboard: IDE and Set-up
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+- Shell scripting
+- C
+- C#
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
+Feel free to explore my repositories to get a glimpse of my projects and coding style. I'm always open to collaboration and eager to contribute to exciting ventures. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me.
 
+Let's connect and make an impact in the world of software engineering!
 
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-00000F?style=for-the-badge&logo=angular&logoColor=red)
-
-## OS
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daking24)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daking3968)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@daking24)
