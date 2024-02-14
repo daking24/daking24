@@ -12,14 +12,11 @@ Welcome to my GitHub space! I'm King David Ajayi, a Backend Software Engineer wi
 
 ⚡ Here are some of the technologies I'm proficient in:
 
-- HTML
-- CSS
-- JavaScript
-- Python
 - PHP
-- Shell scripting
-- C
-- C#
+- Laravel Framework
+- JavaScript
+- Node.js
+- Golang
 
 Feel free to explore my repositories to get a glimpse of my projects and coding style. I'm always open to collaboration and eager to contribute to exciting ventures. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me.
 
