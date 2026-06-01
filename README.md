@@ -19,7 +19,7 @@ Rather than listing every tool I've touched, these are the technologies I use to
 
 ### 📊 GitHub Activity
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=daking24&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="King-David's GitHub Stats" />
+![King-David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daking24&theme=radical&hide_border=true&show_icons=true)
 
 <br><br><br><br><br><br><br><br>
 
