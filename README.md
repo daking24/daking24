@@ -19,8 +19,7 @@ Rather than listing every tool I've touched, these are the technologies I use to
 
 ### 📊 GitHub Activity
 
-![King-David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daking24&theme=radical&hide_border=true&show_icons=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=daking24&theme=dracula&hide_border=true&border_radius=8&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br><br><br><br><br><br><br><br>
 
 ### 🌐 Connect
